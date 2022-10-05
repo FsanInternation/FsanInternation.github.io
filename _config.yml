@@ -46,7 +46,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+# google_analytics: G-T9Y0QV0V4C
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
@@ -57,8 +57,7 @@ author:
   url: https://twitter.com/foodowoodo11
   email: kkdk080921@gmail.com
 
- ```yml
  # disqus settings
  disqus: ture
  shortname: fsaninternation-github-io
- ```
+ 
